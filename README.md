@@ -3,3 +3,4 @@ This repository contains all work published within the working package 'Macroeco
 
 These include:
 - Report chapter on CGE models
+- Fact Sheet on CGE Modeling
