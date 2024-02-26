@@ -1,4 +1,4 @@
-# IER - Hy4Daure - Fact Sheets
+# IER - Hy4Daures - Fact Sheets
 This repository contains all fact sheets published by IER (Institute of Energy Economics and Rational Energy Use, University of Stuttgart).
 The fact sheets were published within the Hy4Daure project.
 Fact sheets are numbered according to the respective Working Package (WP).
