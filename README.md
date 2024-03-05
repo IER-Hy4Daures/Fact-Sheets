@@ -31,9 +31,9 @@ The following list provides an overview over all fact sheets and their publicati
 
 ## 5.  Fact sheets on macro-economic analysis (WP 5)
 
-5.1 Namibian economy (planned)
+5.1 Namibian economy (under preparation)
 
-5.2 CGE modelling (under preparation)
+5.2 CGE modelling (available)
 
 5.3 CGE model NEWAGE-Namibia (planned)
 
