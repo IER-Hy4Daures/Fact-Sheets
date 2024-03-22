@@ -11,19 +11,19 @@ The following list provides an overview over all fact sheets and their publicati
 1.2  Green hydrogen Namibia (planned)
 
 ## 2.  Fact sheets on techno-economic assessment (WP2)
-2.1 Techno-economic assessment LH2 (planned)
+2.1 Techno-economic assessment LH2 (available)
 
-2.2 Techno-economic assessment Ammonia (planned)
+2.2 Techno-economic assessment Ammonia (available)
 
-2.3 Techno-economic assessment Methanol (planned)
+2.3 Techno-economic assessment Methanol (available)
  
 ## 3.  Fact sheets on socio-technical evaluation (WP3)
-3.1 Social, environmental and economic indicators (planned)
+3.1 Social, environmental and economic indicators (available)
 
 ## 4.  Fact sheets on energy system modeling (WP4)
 4.1 Energy profile Namibia (planned)
 
-4.2 Energy system modelling (planned)
+4.2 Energy system modelling (available)
 
 4.3 Energy system model TIMES-Namibia (planned)
 
