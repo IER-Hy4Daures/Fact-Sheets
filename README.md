@@ -21,7 +21,7 @@ The following list provides an overview over all fact sheets and their publicati
 3.1 Social, environmental and economic indicators (available)
 
 ## 4.  Fact sheets on energy system modeling (WP4)
-4.1 Energy profile Namibia (planned)
+4.1 Energy profile Namibia (available)
 
 4.2 Energy system modelling (available)
 
